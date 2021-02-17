@@ -1,0 +1,27 @@
+{
+  "root": true,
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaFeatures": {
+      "ecmaVersion": 2018,
+      "sourceType": "module"
+    },
+    "project": ["./tsconfig.json"]
+  },
+  "plugins": [
+    "@typescript-eslint",
+    "eslint-plugin-prettier"
+  ],
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/eslint-recommended",
+    "plugin:@typescript-eslint/recommended",
+    "plugin:@typescript-eslint/recommended-requiring-type-checking",
+    "prettier",
+    "prettier/@typescript-eslint",
+    "plugin:import/typescript",
+    "plugin:import/recommended",
+    "plugin:jest/recommended",
+    "plugin:prettier/recommended"
+  ]
+}
