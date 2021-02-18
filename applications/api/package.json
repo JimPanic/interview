@@ -8,6 +8,11 @@
     "express": "^4.17.1"
   },
   "scripts": {
-    "start": "ts-node-dev src/index.js"
+    "start": "ts-node-dev src/index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "ts-jest": "^26.5.1"
   }
 }
