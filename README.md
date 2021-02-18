@@ -2,16 +2,17 @@
 
 Congratulations you made it to the Technical Interview Stage of our hiring process! Lean back, take a deep breath and then let's get started.
 
-## Prerequisites
-
-- Ensure you have NodeJS with version 12+ installed
-
 ## Agenda
 
 - Intro (10 min)
 - Tactical challenge (40 min)
 - Technical question (20 min)
 - Your questions (15 min)
+
+## Prerequisites
+
+- Ensure you have NodeJS with version 12+ installed
+- Ensure you have Yarn 1.x installed
 
 ## Which skills do we want to check in this stage?
 
