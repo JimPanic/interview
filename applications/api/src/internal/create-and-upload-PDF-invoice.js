@@ -11,7 +11,7 @@ exports.createAndUploadPDFInvoice = async function createAndUploadPDFInvoice(
 ) {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
-      const worked = Math.random() > 0.3
+      const worked = Math.random() > 0.2
       if (worked) {
         console.log('SUCCESS: PDF Upload')
         resolve()

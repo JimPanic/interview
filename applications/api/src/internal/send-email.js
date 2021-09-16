@@ -9,7 +9,7 @@
 exports.sendEmail = async function sendEmail(data) {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
-      const worked = Math.random() > 0.3
+      const worked = Math.random() > 0.2
       if (worked) {
         console.log('SUCCESS: Email Sending ')
         resolve()
