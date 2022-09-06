@@ -5,7 +5,7 @@ Congratulations you made it to the Technical Interview Stage of our hiring proce
 ## Agenda
 
 - Intro (10 min)
-- Tactical challenge (40 min)
+- Coding challenge (40 min)
 - Technical question (20 min)
 - Your questions (15 min)
 
